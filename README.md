@@ -4,9 +4,5 @@
 2. 班级：18级信息安全1班
 3. 学号：3218005400
 4. 兴趣爱好：做plog记录生活，听相声
-
-![](https://img2020.cnblogs.com/blog/2148056/202009/2148056-20200909220740045-1597615324.jpg)
-
-
 5. 邮箱：985771560@qq.com
-6. github：https://github.com/zhan-x
+6. github：[zhan-x](https://github.com/zhan-x)
